@@ -19,10 +19,7 @@ class MainActivity : AppCompatActivity() {
         R.drawable.transport_stat_modifier_6_full_size,
         R.drawable.transport_stat_modifier_7_full_size,
         R.drawable.transport_stat_modifier_8_full_size,
-        R.drawable.transport_stat_modifier_9_full_size,
-        R.drawable.transport_stat_modifier_1_full_size,
-        R.drawable.transport_stat_modifier_1_full_size,
-        R.drawable.transport_stat_modifier_1_full_size
+        R.drawable.transport_stat_modifier_9_full_size
     )
 
     override fun onCreate(savedInstanceState: Bundle?) {
